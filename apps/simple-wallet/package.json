@@ -8,6 +8,6 @@
     "heroku-postbuild": "cd client && NODE_ENV=development yarn && yarn run build"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
